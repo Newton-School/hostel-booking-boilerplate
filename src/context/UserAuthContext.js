@@ -1,0 +1,1 @@
+// export the auth context to save and use user data locally
